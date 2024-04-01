@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif
+}
+
+h1{
+    margin: 0 0 30px 0;
+}
+
+#input-section{
+    padding: 35px 0px;;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color: #6943FF;
+    color: #FFFFFF;
+}
+
+#value-input{
+    margin-bottom: 25px;
+    width: 120px;
+    border: 2px solid #B295FF;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #6943FF;
+    color: inherit;
+    font-family: inherit;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#convert-button{
+    width: 120px;
+    padding: 10px 0px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    color: #3D3D3D
+}
+
+#output-section{ 
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 35px 25px;
+    background-color: #F4F4F4;
+}
+
+.conversion-container{
+    width: 100%;
+    margin-bottom: 25px;
+    padding: 30px 0 20px 0;
+    background-color: #FFFFFF;
+    text-align:center;
+}
+
+.conversion-container h2{
+    color: #5A537B
+}
+
+.conversion-container p{
+    color: #353535
+}
