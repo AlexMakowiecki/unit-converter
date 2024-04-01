@@ -1,7 +1,7 @@
 # Chrome extension practice
 ## What is it? 
-It's a website that helps you get the unit conversion info (m/ft, lt/gal, kg/lb) for the value that you choose in the big box. 
-It's also the sixth project, and fourth SOLO Project, part of the Scrimba Course, that I uploaded to Github. This project is part of module 3, where they teach you how to use Javascript.
+It's a website that provides unit conversion information (e.g., m/ft, lt/gal, kg/lb) based on the value entered into the large input box.
+It's also the sixth project, and fourth SOLO Project, part of the Scrimba Course, that I've uploaded to Github. This project is part of module 3, where they teach you how to use Javascript.
 ## What did I use?
 I used HTML, CSS and Javascript
 ## About Scrimba
