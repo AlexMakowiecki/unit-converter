@@ -1,4 +1,6 @@
 # Unit converter
+<img style="text-align:center" src="https://github.com/AlexMakowiecki/unit-converter/assets/122258496/b850091f-3650-4658-aeff-b1c18d2847a7" width="500"/>
+
 ## What is it? 
 It's a website that provides unit conversion information (e.g., m/ft, lt/gal, kg/lb) based on the value entered into the large input box.
 It's also the sixth project, and fourth SOLO Project, part of the Scrimba Course, that I've uploaded to Github. This project is part of module 3, where they teach you how to use Javascript.
