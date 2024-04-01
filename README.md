@@ -1,4 +1,4 @@
-# Chrome extension practice
+# Unit converter
 ## What is it? 
 It's a website that provides unit conversion information (e.g., m/ft, lt/gal, kg/lb) based on the value entered into the large input box.
 It's also the sixth project, and fourth SOLO Project, part of the Scrimba Course, that I've uploaded to Github. This project is part of module 3, where they teach you how to use Javascript.
